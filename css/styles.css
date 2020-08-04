@@ -1,0 +1,30 @@
+h1 {
+  color: #28a528;
+  text-align: center;
+}
+
+h2 {
+  font-style: normal;
+  text-align: center;
+}
+
+h3 {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: left;
+}
+
+h5 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
