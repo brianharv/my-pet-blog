@@ -29,6 +29,11 @@ ul {
   line-height: 30px;
 }
 
+.paragraph-border {
+  border: 1px black dotted;
+  padding: 5px;
+}
+
 .mode-button {
   float: right;
 }
