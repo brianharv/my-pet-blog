@@ -28,3 +28,26 @@ ul {
   font-size: 20px;
   line-height: 30px;
 }
+
+.mode-button {
+  float: right;
+}
+
+#change-mode {
+  background-color: yellow;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+/*
+.dark-mode-background {
+  background-color: black;
+}
+
+.dark-mode-font {
+  color: white;
+}
+*/
