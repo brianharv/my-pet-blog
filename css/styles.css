@@ -47,6 +47,14 @@ ul {
   color: white;
 }
 
+.dark-mode .paragraph-border {
+  border: 1px white dotted;
+}
+
+.dark-mode #change-mode {
+  background-color: white;
+}
+
 /*
 .dark-mode-background {
   background-color: black;

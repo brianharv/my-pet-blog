@@ -5,6 +5,12 @@ $(document).ready(function() {
 
   $("p").click(function() {
     $(this).toggleClass("paragraph-border");
+    $("p").not(this).removeClass("paragraph-border");
   });
 });
 
+
+/* 
+  $("p").click(function() {
+    $(this).toggleClass("paragraph-border");
+  }); */
