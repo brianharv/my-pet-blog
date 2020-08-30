@@ -10,6 +10,7 @@ _This web page is designed to compliment a fundamental understanding of HTML for
 
 ## Setup/Installation Requirements
 
+* _Clone repository from GitHub_
 * _Open index.html in a browser._
 
 
